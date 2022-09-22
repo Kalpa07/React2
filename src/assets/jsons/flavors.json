@@ -1,0 +1,38 @@
+[
+    {
+        "name" : "Triple Mango",
+        "image" : "triplemango.png",
+        "rating" : 5
+    },
+    
+    {
+        "name" : "Cookies 'N Cream",
+        "image" : "cookiesncrm.png",
+        "rating" : 5
+    },
+
+
+    {
+        "name" : "Cotton Candy",
+        "image" : "cottoncandy.png",
+        "rating" : 5
+    },
+
+    {
+        "name" : "Chocolate Fudge",
+        "image" : "chocolatefudge.png",
+        "rating" : 5
+    },
+
+    {
+        "name" : "Very Berry Strawberry",
+        "image" : "strawberry.png",
+        "rating" :  4
+    },
+
+    {
+        "name" : "Pink Bubblegum",
+        "image" : "bubblegum.png",
+        "rating" : 4
+    }
+]
